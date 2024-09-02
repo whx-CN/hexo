@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: whx の blog
+subtitle: In solitude, where we are least alone.	——『ヨスガノソラ』
+description: 阿米诺思
 keywords:
-author: John Doe
-language: en
-timezone: ''
+author: whx-CN
+language: zh-Hans
+timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: http://whx.top
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -102,3 +102,5 @@ theme: vivia
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+  archive_generator:
+  per_page: 0
