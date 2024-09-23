@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: whx の blog
+title: whxのbolg
 subtitle: In solitude, where we are least alone.	——『ヨスガノソラ』
-description: 阿米诺思
-keywords:
+description:     
+keywords: 
 author: whx-CN
-language: zh-Hans
+language: zh-CN
 timezone: Asia/Shanghai
 
 # URL
